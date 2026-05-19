@@ -12,9 +12,10 @@
 - 📈 Data Visualization in HTML, CSS, Javascript (d3, Scrollama)
 - 🛠️ Efficient pipelines — including knowledge of
   - $\lambda$ Lambda Architecture
-  - ❔BigQuery & Databricks 
+  - ❔BigQuery & Databricks
+- 🤖 the math behind Machine Learning
 - 📱 iOS Application Development
-- 🔴 Ruby on Rails
+- 🔴 Using Ruby on Rails for Web Development
 
 ## And I'm currently ...
 Looking for work! I graduate from the University of Chicago with a Master of Science in Computational Analysis and Public Policy in June 2026, and I'm looking for software engineer, data engineer, project manager, and data scientist roles. Please check out my [portfolio](https://libbyseline.github.io/) to see my resumé, my previous work, and learn more about me. 
